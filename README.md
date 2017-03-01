@@ -1,5 +1,7 @@
 # ENS Test
 
+[Live Example](https://flyswatter.github.io/ens-test/)
+
 Dan's first grappling with the [ethereum-ens](https://www.npmjs.com/package/ethereum-ens) JS package.
 
 It's not working quite like I expected, so this is for asking questions with.
