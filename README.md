@@ -6,6 +6,8 @@ Dan's first grappling with the [ethereum-ens](https://www.npmjs.com/package/ethe
 
 It's not working quite like I expected, so this is for asking questions with.
 
+The attempt in question can be found in [index.js](./index.js).
+
 ## Viewing locally
 
 - run a local http server in this folder.
